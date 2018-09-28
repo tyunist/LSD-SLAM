@@ -1,6 +1,5 @@
 
-# This is a slightly modified version of LSD-SLAM to work on Ubuntu 16.04 + ROS
-Kinetic
+# This is a slightly modified version of LSD-SLAM to work on Ubuntu 16.04 + ROS Kinetic
 
 Changes are mostly:
 * Copy g2o to lsd_slam_core/src
